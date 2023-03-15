@@ -1,14 +1,7 @@
-# Gabriel
+## Experiencia
 
 ---
 
-
-## Dados Pessoais
-
-CPF: XXXXXXXXXX
-
-RG: XXXXXXXX
-
-Telefone: XXXXXXX
-
-E-Mail: XXXXXXXXX
+- oi
+- tudo bom
+- legal
